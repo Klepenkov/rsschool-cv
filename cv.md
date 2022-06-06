@@ -23,3 +23,18 @@ Now I want to return to this case and bring it to the end. Of the directions, I 
 * Have **AutoCAD** knowledge;
 * Above average knowledge of **excel**.
 ****
+### **Education**
+**SCHOOL №51** 1998-2007 **Speciality:** information and mathematics class;
+**MGASK** 2007-2011 **Faculty:** Building faculty; **Speciality:** industrial and civil construction; 
+**Qualification:** construction technician.
+**BIP** 2011-2016 **Faculty:** Faculty of Economics and Law; **Speciality:** economics and management at the enterprise; 
+**Qualification:** economist-manager.
+****
+### **Experience**
+| Name of the organization  | Position | Work period |
+| ------------- | ------------- | ------------- |
+| ОАО «Стройтрест №7 СУ-115»(Unet) | master  | Fedriary 2013 - September 2015  |
+| IE Klepenkov PS   | Individual entrepreneur | September 2015 - today  |
+****
+### **level of english**
+А2
