@@ -23,6 +23,15 @@ Now I want to return to this case and bring it to the end. Of the directions, I 
 * Have **AutoCAD** knowledge;
 * Above average knowledge of **excel**.
 ****
+### **Sample code**
+```
+function nthFibo(n) {
+  if(n == 1) return 0
+  if(n == 2) return 1
+  else { return (nthFibo(n-1) + nthFibo(n-2))}
+}
+```
+****
 ### **Education**
 **SCHOOL №51** 1998-2007 **Speciality:** information and mathematics class;
 **MGASK** 2007-2011 **Faculty:** Building faculty; **Speciality:** industrial and civil construction; 
