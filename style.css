@@ -70,3 +70,9 @@ a {
     white-space: pre;
     margin: 1em 0px;
 }
+.footer{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
