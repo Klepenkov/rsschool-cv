@@ -12,18 +12,63 @@
     <header>
         <nav>
             <ul  class="container nav-header" id="menu">
-                <li><a href="">My name</a></li>
-                <li><a href="">My contacts</a></li>
-                <li><a href="">About me</a></li>
-                <li><a href="">Skills</a></li>
-                <li><a href="">Sample code</a></li>
-                <li><a href="">Education</a></li>
-                <li><a href="">Experience</a></li>
-                <li><a href="">Level of english</a></li>
+                <li><a href="#profile">profile</a></li>
+                <li><a href="#contacts">contacts</a></li>
+                <li><a href="#summary">summary</a></li>
+                <li><a href="#skills">skills</a></li>
+                <li><a href="#code">code</a></li>
+                <li><a href="#education">education</a></li>
+                <li><a href="#experience">experience</a></li>
+                <li><a href="#languages">languages</a></li>
             </ul>
         </nav>
     </header>
-    <main></main>
+    <main>
+        <div>
+            <div class="profile"></div>
+            <section class="section section-flex" id="profile">
+                <h1 class="section-title">Klepenkov Pavel Sergeevich</h1>
+                <img class="photo" src="CVphoto.jpg" alt="my photo">
+            </section>
+            <section class="section" id="contacts">
+                <h2 class="section-title">contacts</h2>
+                <ul class="ul-contacts">
+                    <li><b>location:</b>Belarus, Minsk</li>
+                    <li><b>e-mail:</b>pavelklepenkov@gmail.com</li>
+                    <li><d>discord:</d>Pavel Klepenkov (@Klepenkov)</li>
+                </ul>
+            </section>
+            <section class="section" id="summary">
+                <h2 class="section-title">summary</h2>
+                <p>I am studying to be a front-end developer in RS School.
+
+                    For the last five years I have been working in the sales of building materials and equipment. Prior to that, I held a senior position in the construction of residential multi-storey buildings.
+                    
+                    A year ago I started learning C#. I really liked it and it didn’t even work out badly, but I couldn’t continue my studies.
+                    
+                    Now I want to return to this case and bring it to the end. Of the directions, I am interested in front-end development.</p>
+            </section>
+            <section class="section" id="skills">
+                <h2 class="section-title">skills</h2>
+                <ul>
+                    <li>Studied independently HTML, CSS, C#;</li>
+                    <li>Have AutoCAD knowledge;</li>
+                    <li>Above average knowledge of excel.</li>
+                </ul>
+            </section>
+            <section class="section" id="code">
+                <h1 class="section-title">code</h1>
+                <p class="code">function nthFibo(n) {
+                    if(n == 1) return 0
+                    if(n == 2) return 1
+                    else { return (nthFibo(n-1) + nthFibo(n-2))}
+                  }</p>
+            </section>
+            <section class="section" id="education"></section>
+            <section class="section" id="experience"></section>
+            <section class="section" id="languages"></section>
+        </div>
+    </main>
     <footer></footer>
 </body>
 </html>
